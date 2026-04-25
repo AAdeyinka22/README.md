@@ -109,3 +109,32 @@ To mitigate SQL Injection vulnerabilities:
 
 - ✅ Improve Error Handling (avoid detailed DB errors)
 
+---
+## 📚 Skills Demonstrated
+- Web Application Security Testing
+
+- SQL Injection Exploitation Techniques
+
+- HTTP Request Analysis
+
+- Use of Burp Suite & sqlmap
+
+- Vulnerability Reporting & Documentation
+
+- Secure Coding Awareness
+
+---
+## 📈 Conclusion
+
+This project highlights how insecure input handling can lead to critical vulnerabilities such as SQL Injection. By combining manual testing with automated tools, the assessment provides a comprehensive understanding of both the discovery and validation process.
+
+The exercise reinforces the importance of secure development practices and demonstrates practical, job-ready cybersecurity skills.
+
+---
+### ⚠️ Note: This project was conducted on an intentionally vulnerable training application for educational and portfolio purposes only.
+
+---
+## 👤 Author
+
+[Adeyinka Martins Adeyanju]
+Cybersecurity Analyst |
