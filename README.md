@@ -1,9 +1,9 @@
 
-## 🔐 SQL Injection Security Assessment & Exploitation Validation OWASP Bricks Login-1
+## 🔐 SQL Injection Security Assessment & Exploitation Validation OWASP Bricks Login-1 Page
 ---
 
 ## 📌 Overview
-### This project presents a hands-on web application security assessment focused on identifying and validating SQL Injection (SQLi) vulnerabilities in a controlled and authorized environment of OWASP Bricks Login-1 Page The assessment demonstrates both **manual testing techniques** and **automated validation workflows**, showcasing practical cybersecurity skills relevant to penetration testing and application security.
+### This project presents a hands-on web application security assessment focused on identifying and validating SQL Injection (SQLi) vulnerabilities in a controlled and authorized environment of OWASP Bricks Login-1 Page. The assessment demonstrates both **manual testing techniques** and **automated validation workflows**, showcasing practical cybersecurity skills relevant to penetration testing and application security.
 
 ---
 ## 🎯 Objectives
