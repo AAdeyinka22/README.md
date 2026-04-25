@@ -1,5 +1,5 @@
 
-# 🔐 SQL Injection Security Assessment & Exploitation Validation OWASP Bricks Login-1
+## 🔐 SQL Injection Security Assessment & Exploitation Validation OWASP Bricks Login-1
 ---
 
 ## 📌 Overview
@@ -136,5 +136,5 @@ The exercise reinforces the importance of secure development practices and demon
 ---
 ## 👤 Author
 
-Adeyinka Martins Adeyanju
-Cybersecurity Analyst |
+Adeyinka Martins Adeyanju:
+Cybersecurity Analyst 
