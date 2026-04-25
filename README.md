@@ -76,11 +76,11 @@ The assessment began with manual interaction with the login form:
 
 ---
 ## ⚠️ Key Findings
-. The login form was vulnerable to SQL Injection
+- The login form was vulnerable to SQL Injection
 
-. User input was not properly sanitized or parameterized
+- User input was not properly sanitized or parameterized
 
-. Authentication logic could be bypassed
+- Authentication logic could be bypassed
 
-. Backend database queries were exposed to manipulation
+- Backend database queries were exposed to manipulation
 
