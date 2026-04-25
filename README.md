@@ -3,12 +3,12 @@
 ---
 
 ## 📌 Overview
-### This project presents a hands-on web application security assessment focused on identifying and validating SQL Injection (SQLi) vulnerabilities in a controlled and authorized environment of OWASP Bricks Login Page .The assessment demonstrates both **manual testing techniques** and **automated validation workflows**, showcasing practical cybersecurity skills relevant to penetration testing and application security.
+### This project presents a hands-on web application security assessment focused on identifying and validating SQL Injection (SQLi) vulnerabilities in a controlled and authorized environment of OWASP Bricks Login-1 Page The assessment demonstrates both **manual testing techniques** and **automated validation workflows**, showcasing practical cybersecurity skills relevant to penetration testing and application security.
 
 ---
 ## 🎯 Objectives
 
-- Identify SQL Injection vulnerabilities in a login form
+- Identify SQL Injection vulnerabilities in OWASP Bricks Login-1 form
 - Validate findings using both manual and automated approaches
 - Analyze HTTP requests and application responses
 - Demonstrate exploitation in a controlled environment
@@ -74,4 +74,10 @@ The assessment began with manual interaction with the login form:
   - Identify injectable parameters
   - Demonstrate potential database interaction (controlled)
 
+---
+## ⚠️ Key Findings
+. The login form was vulnerable to SQL Injection
+. User input was not properly sanitized or parameterized
+. Authentication logic could be bypassed
+. Backend database queries were exposed to manipulation
 
