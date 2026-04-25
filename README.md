@@ -136,5 +136,5 @@ The exercise reinforces the importance of secure development practices and demon
 ---
 ## 👤 Author
 
-[Adeyinka Martins Adeyanju]
+Adeyinka Martins Adeyanju
 Cybersecurity Analyst |
