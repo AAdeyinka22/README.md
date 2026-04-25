@@ -84,3 +84,28 @@ The assessment began with manual interaction with the login form:
 
 - Backend database queries were exposed to manipulation
 
+---
+## 🔥 Security Impact
+- Unauthorized access to application accounts
+
+- Potential database enumeration
+
+- Risk of sensitive data exposure
+
+- Compromise of application integrity
+
+---
+## 🛡️ Recommendations
+
+To mitigate SQL Injection vulnerabilities:
+
+- ✅ Use Prepared Statements / Parameterized Queries
+  
+- ✅ Implement Input Validation & Sanitization
+
+- ✅ Apply Web Application Firewall (WAF)
+
+- ✅ Enforce Least Privilege Database Access
+
+- ✅ Improve Error Handling (avoid detailed DB errors)
+
